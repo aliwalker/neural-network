@@ -52,4 +52,3 @@ neural.learn(train_data);
 // predict the result from an input
 neural.predict([1, 1])  // should be smaller than 0.05
 ```
-Note that 
