@@ -1,0 +1,28 @@
+{
+  "name": "neural-network.js",
+  "version": "0.0.0",
+  "description": "This is a naive implementation of neural-network for study purpose.",
+  "main": "neural-network.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alieeeeen/neural-network.git"
+  },
+  "keywords": [
+    "Neural-Network",
+    "backpropagation"
+  ],
+  "author": "Alien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alieeeeen/neural-network/issues"
+  },
+  "homepage": "https://github.com/Alieeeeen/neural-network#readme"
+}
