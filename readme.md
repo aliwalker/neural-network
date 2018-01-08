@@ -131,5 +131,5 @@ var option = {
 
 ## Others
 There are some other great projects you might be interested in:
-[brain.js](https://github.com/BrainJS/brain.js)
-[neuronjs](https://github.com/janhuenermann/neurojs)
+- [brain.js](https://github.com/BrainJS/brain.js)
+- [neuronjs](https://github.com/janhuenermann/neurojs)
