@@ -26,7 +26,7 @@ const neuralnet = new NeuralNet(2, 1)  // Create a neural network with first par
                                         // Second param = output size.
 
 neuralnet.learn(train_data)             // Now learn them! The network will learn it a couple of times.
-console.log(neuralnet.predict([0, 0]))  // [ 0.9497415745286806 ]
+console.log(neuralnet.predict([0, 1]))  // [ 0.9497415745286806 ]
 ```
 
 Here's another example inspired by [node-mind](https://github.com/stevenmiller888/mind)(I've tried this example, getting that my network performs a better job on prediction):
