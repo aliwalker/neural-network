@@ -6,7 +6,7 @@ This implementation might not be very efficient, but enough for the study purpos
 
 ## Download
 ```
-git clone git@github.com:Alieeeeen/neural-network.git
+git clone git@github.com:aliwalker/neural-network.git
 ```
 
 ## Examples
